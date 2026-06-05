@@ -7,7 +7,7 @@ st.title("👤 About Me")
 col1, col2 = st.columns([1, 2], gap="medium")
 
 with col1:
-    st.image("pages\FB_IMG_17769307678387414.jpg", width=200)
+    st.image("My streamlit app/pages/FB_IMG_17769307678387414.jpg", width=200)
 
 with col2:
     st.subheader("How are you! I'm Rose R. Delacruz")
