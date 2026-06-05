@@ -26,7 +26,7 @@ with col1:
 
 with col2:
     
-    st.image("pages\FB_IMG_17769307678387414.jpg", width=200)
+    st.image("My streamlit app/pages/FB_IMG_17769307678387414.jpg", width=200)
 
 st.divider()
 
