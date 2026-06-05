@@ -1,4 +1,4 @@
-<img width="715" height="715" alt="FB_IMG_17769307678387414" src="https://github.com/user-attachments/assets/29494a38-4d4b-4401-af0e-40bfde7e23d3" />💼 Streamlit Portfolio – Interactive Projects Showcase
+
 
 This project is a personal portfolio web application built with Streamlit, designed to present my projects, skills, and background in a clean and interactive way.
 
